@@ -1,6 +1,6 @@
 # blinkit_clone
 
-A new Flutter project.
+This Flutter project is a Blinkit Clone application that showcases the implementation of Clean Code Architecture with a clear separation of concerns. The project is structured into distinct layers — Data, Domain, and Repository — to ensure better maintainability, scalability, and testability. By organizing the codebase in this way, the project demonstrates how complex app features can be managed efficiently while keeping the architecture clean and professional.
 
 ## Getting Started
 
